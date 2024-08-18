@@ -1,0 +1,11 @@
+framework module downloadsfolder {
+  umbrella header "downloadsfolder-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module downloadsfolder.Swift {
+  header "downloadsfolder-Swift.h"
+  requires objc
+}

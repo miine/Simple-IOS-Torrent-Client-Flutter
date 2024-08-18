@@ -1,0 +1,6 @@
+framework module Pods_Share_extent {
+  umbrella header "Pods-Share extent-umbrella.h"
+
+  export *
+  module * { export * }
+}

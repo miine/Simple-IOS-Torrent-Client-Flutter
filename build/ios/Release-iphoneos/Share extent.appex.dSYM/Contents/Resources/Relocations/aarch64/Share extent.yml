@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lamineallou/Documents/Dev/torrentClientIOS/torrent_client/build/ios/Release-iphoneos/Share extent.appex/Share extent'
+relocations:
+  - { offsetInCU: 0x27, offset: 0x57A8D, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC14isContentValidSbyFTo', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x8 }
+  - { offsetInCU: 0x4B, offset: 0x57AB1, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC14isContentValidSbyFTo', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x8 }
+  - { offsetInCU: 0x85, offset: 0x57AEB, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC13didSelectPostyyFTo', symObjAddr: 0x8, symBinAddr: 0x100004008, symSize: 0x9C }
+  - { offsetInCU: 0xCF, offset: 0x57B35, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC18configurationItemsSayypGSgyFTo', symObjAddr: 0xA4, symBinAddr: 0x1000040A4, symSize: 0x28 }
+  - { offsetInCU: 0x11D, offset: 0x57B83, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0xCC, symBinAddr: 0x1000040CC, symSize: 0xA0 }
+  - { offsetInCU: 0x18E, offset: 0x57BF4, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x16C, symBinAddr: 0x10000416C, symSize: 0x44 }
+  - { offsetInCU: 0x1D1, offset: 0x57C37, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerCfD', symObjAddr: 0x1B0, symBinAddr: 0x1000041B0, symSize: 0x30 }
+  - { offsetInCU: 0x1FF, offset: 0x57C65, size: 0x8, addend: 0x0, symName: '_$s12Share_extent0A14ViewControllerCMa', symObjAddr: 0x1E0, symBinAddr: 0x1000041E0, symSize: 0x20 }
+...

@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/lamineallou/Documents/Dev/torrentClientIOS/torrent_client/build/macos/Build/Products/Debug/downloadsfolder/downloadsfolder.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/lamineallou/Documents/Dev/torrentClientIOS/torrent_client/build/macos/Build/Intermediates.noindex/Pods.build/Debug/downloadsfolder.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/lamineallou/Documents/Dev/torrentClientIOS/torrent_client/build/macos/Build/Products/Debug/downloadsfolder/downloadsfolder.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "downloadsfolder-Swift.h",
+      'external-contents': "/Users/lamineallou/Documents/Dev/torrentClientIOS/torrent_client/build/macos/Build/Intermediates.noindex/Pods.build/Debug/downloadsfolder.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,53 @@
+PODS:
+  - downloadsfolder (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - open_file (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - receive_sharing_intent (1.8.0):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - downloadsfolder (from `.symlinks/plugins/downloadsfolder/ios`)
+  - Flutter (from `Flutter`)
+  - open_file (from `.symlinks/plugins/open_file/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - receive_sharing_intent (from `.symlinks/plugins/receive_sharing_intent/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+
+EXTERNAL SOURCES:
+  downloadsfolder:
+    :path: ".symlinks/plugins/downloadsfolder/ios"
+  Flutter:
+    :path: Flutter
+  open_file:
+    :path: ".symlinks/plugins/open_file/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  receive_sharing_intent:
+    :path: ".symlinks/plugins/receive_sharing_intent/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+
+SPEC CHECKSUMS:
+  downloadsfolder: 84af83492bd9ab8c94109ba56fd202d7469d3632
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  open_file: 02eb5cb6b21264bd3a696876f5afbfb7ca4f4b7d
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  receive_sharing_intent: df9c334dc9feadcbd3266e5cb49c8443405e1c9f
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+
+PODFILE CHECKSUM: aaaef8c3be5642a48326b2ab1a97e46ec3736184
+
+COCOAPODS: 1.14.3
